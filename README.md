@@ -17,7 +17,7 @@ Database: MongoDB (via pymongo)
 Notifications: Twilio (SMS), SMTP (Email)
 ***⚙️ Installation Guide
 ✅ Step 1: Clone the Repository
-git clone ://
+git clone ://https://github.com/Sahana-bt/Helmet-Violation-Detection-and-Automated-E-Challan-System.git
 cd final_year_project
 ✅ Step 2: Create a Virtual Environment
 python -m venv .venv
